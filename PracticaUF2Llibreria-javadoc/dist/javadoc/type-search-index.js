@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"utils.arrays","l":"ArrayDouble"},{"p":"utils.arrays","l":"ArrayEnter"},{"p":"utils.arrays","l":"ArrayString"},{"p":"utils.consola","l":"LecturaConsola"}];updateSearchResults();
